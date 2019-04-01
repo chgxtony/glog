@@ -42,7 +42,7 @@ const (
 var levelStringMap = map[LOGLEVEL]string{
 	DEBUG: "DEBUG",
 	INFO:  "INFO",
-	WARN:  "WANR",
+	WARN:  "WARN",
 	ERROR: "ERROR",
 	FATAL: "FATAL",
 	OFF:   "OFF",
